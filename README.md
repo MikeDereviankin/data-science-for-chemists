@@ -1,3 +1,5 @@
+![Data Science for Chemists](banner.png)
+
 # Data Science for Chemists — Battelle 2026 Short Course
 
 An interactive Shiny app built for the **Battelle 2026 Chlorinated Conference** short course. Participants can explore data science concepts applied to environmental chemistry — from data structures and matrix operations to outlier detection, imputation, and dimensionality reduction — all using realistic simulated PFAS/PCB/PAH datasets.
